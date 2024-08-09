@@ -1,6 +1,6 @@
 [core]
-    remote = storage
+    remote = datasets
 ['remote "datasets"']
-    url = ../bucket-traininggog/TEST3S/Datasets
+    url = gs://bucket-traininggog/TEST3S/Datasets
 ['remote "storage"']
-    url = ../bucket-traininggog/TEST3S/Datasets
+    url = gs://bucket-traininggog/TEST3S/Datasets
